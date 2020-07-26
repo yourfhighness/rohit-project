@@ -1,0 +1,110 @@
+.myheader{
+    height: 100px;
+    background-color: lightseagreen;
+}
+.logo{
+    width:100px;
+    height:70px;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+/* .topmenu{
+
+} */
+.topmenu ul{
+    line-height: 80px;
+}
+.topmenu ul li a{
+   color: #fff;
+   font-weight: bold;
+    
+}
+.topmenu ul li a:hover{
+    transition: 0.5s;
+    color: greenyellow;
+    
+    
+}
+.mainContent{
+    width: 100%;
+    height: 475px;
+}
+.footer{
+    height: 50px;
+    background-color: lightseagreen;
+}
+.socials{
+    margin-left: 45px;
+}
+.socials i{
+    line-height: 50px;
+    color: #fff;
+    padding-left: 15px;
+
+}
+.socials i:hover{
+    transition: 0.5s;
+   color: greenyellow;
+}
+.footer .medeby p{
+    color: #fff;
+    font-weight: bold;
+    text-align: right;
+    padding-top: 10px;
+}
+.mylogin{
+    background-image: linear-gradient(lightseagreen, rgb(243, 234, 108));
+    height: 475px;
+}
+.mylogin .loginbox{
+    width: 30%;
+    align-items: center;
+}
+.myregistration{
+    background-image: linear-gradient(lightseagreen, rgb(243, 234, 108));
+    height: auto;
+}
+.myregistration .registrationbox{
+    width: 30%;
+    align-items: center;
+}
+.myprofilearea{
+    background-color:lightseagreen;
+}
+.myprofile{
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.myprofilemain nav ul li a{
+    background-color:#000;
+    
+}
+
+.mylogout ul li{
+    /* background-color: red; */
+    margin-top: 30px;
+    
+}
+.details{
+    width: 23%;
+    height: 250px;
+    background-color: royalblue;
+    margin: 10px;
+    float: left;
+    text-align: center;
+}
+.rec{
+    padding: 30px;
+}
+.rec p{
+    text-align: center;
+    background-color: #000;
+    padding: 50px;
+    color: #fff;
+}
+/* .list_details{
+
+} */
